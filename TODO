@@ -1,0 +1,5 @@
+Create a searching method to search the table and have it return
+    1) The minimum amount of probes
+    2) The maximum amount of probes
+    3) The average amount of probes
+    4) Print those 3 numbers to the console
